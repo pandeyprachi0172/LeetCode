@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        // prachi
+        // prachi pandey
         int count = 0;
 
         for (int i = 0; i < nums.size(); i++) {
